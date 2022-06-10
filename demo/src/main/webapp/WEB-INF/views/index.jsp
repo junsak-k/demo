@@ -7,8 +7,8 @@
 <title>index.jsp</title>
 </head>
 <body>
-	<h1>${title }</h1>
-	<h1>Hello Spring Boot!!!!!!</h1>
-	<p>name : ${name}</p>
+	<h1>index</h1>
+	<h2>메인 페이지</h2>
+	<h3>by chef</h3>
 </body>
 </html>
