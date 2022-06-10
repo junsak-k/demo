@@ -7,8 +7,10 @@
 <title>index.jsp</title>
 </head>
 <body>
+
 	<h1>index</h1>
 	<h2>메인 페이지</h2>
 	<h3>by chef</h3>
+	<p>by hong</p>
 </body>
 </html>
